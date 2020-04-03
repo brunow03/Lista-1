@@ -1,1 +1,1 @@
-# ZENITH_treinamento
+# ZENITH_exercicios
